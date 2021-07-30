@@ -1,0 +1,2 @@
+# patikaPython101
+ödevÇözüm
